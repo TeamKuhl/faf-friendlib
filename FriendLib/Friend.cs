@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace FriendLib
 {
-    public class Class1
+    class Friend
     {
+
     }
 }
